@@ -1,0 +1,6 @@
+name: supplementary-style-guide
+title: Red Hat supplementary style guide for product documentation
+version: 'antora-site'
+start_page: ROOT:introduction/about-guide.adoc
+nav:
+  - modules/ROOT/nav.adoc
